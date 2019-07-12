@@ -8,6 +8,6 @@
 
 有BUG欢迎来发Issues哦
 
-![运行](https://github.com/AiEson/InnerCoreModGetter/img/运行.png)
+![运行](https://github.com/AiEson/InnerCoreModGetter/blob/master/img/运行.png)
 
-![结果](https://github.com/AiEson/InnerCoreModGetter/img/结果.png)
+![结果](https://github.com/AiEson/InnerCoreModGetter/blob/master/img/结果.png)
